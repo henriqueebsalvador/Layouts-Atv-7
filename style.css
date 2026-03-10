@@ -1,0 +1,29 @@
+body {
+    display: flex; 
+    align-items: flex-start;
+}
+
+.blue {
+    padding: 20;
+    background-color: rgb(129, 129, 255);   
+}
+
+.yo {
+    padding: 20;
+    margin: 10;
+    background-color: rgb(255, 255, 119);
+}
+
+.red {
+    padding-right: 80;
+    background-color: rgb(255, 255, 119);
+}
+
+.green {
+    background-color: rgb(255, 255, 119);
+    padding-bottom: 80;
+}
+
+.flex {
+    display: flex;
+}
